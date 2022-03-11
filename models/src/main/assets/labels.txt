@@ -1,0 +1,5 @@
+bracelet
+clock
+footware
+playing_card
+trimmer
